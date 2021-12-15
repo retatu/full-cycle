@@ -2,3 +2,7 @@
 	path = go
 	url = https://github.com/retatu/full-cycle-go
 	branch = main
+[submodule "nestjs"]
+	path = nestjs
+	url = https://github.com/retatu/full-cycle-nestjs
+	branch = main
