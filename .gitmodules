@@ -1,0 +1,7 @@
+[submodule "go"]
+	path = go
+	url = https://github.com/retatu/full-cycle-go
+
+[submodule "nestjs"]
+	path = nestjs
+	url = https://github.com/retatu/full-cycle-nestjs
