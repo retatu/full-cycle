@@ -5,3 +5,4 @@
 [submodule "nestjs"]
 	path = nestjs
 	url = https://github.com/retatu/full-cycle-nestjs
+	branch = main
